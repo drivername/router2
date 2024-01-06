@@ -14,6 +14,7 @@ function App() {
       </nav>
       <Link to={'/'} className='linkClass'><div className='home'>
         <h1>Home</h1>
+        <p>Siema co tam</p>
         </div></Link>
     
     </header>
